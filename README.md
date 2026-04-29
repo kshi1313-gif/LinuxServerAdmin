@@ -1,3 +1,4 @@
 # LinuxServerAdmin
 ## file System Strucutive
-## Derivece
+## Device Administration - Device Reconfiguration
+## Device Administration - Disk Partition
